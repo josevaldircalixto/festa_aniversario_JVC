@@ -1,2 +1,0 @@
-AOS.init();const e=new Date("jun 29, 2025 00:00:00").getTime(),t=setInterval(function(){let n=e-new Date().getTime(),o=Math.floor(n/864e5),a=Math.floor(n%864e5/36e5),r=Math.floor(n%36e5/6e4),l=Math.floor(n%6e4/1e3);document.getElementById("contador").innerHTML=`${o}d ${a}h ${r}m ${l}s`,n<0&&(clearInterval(t),document.getElementById("contador").innerHTML="Evento expirado")},1e3);
-//# sourceMappingURL=index.d84b16dd.js.map
