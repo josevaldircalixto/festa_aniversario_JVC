@@ -2,7 +2,11 @@
   "name": "exercicio",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   
+=======
+ 
+>>>>>>> 5abcc6000bf1a438c717ef7fa0a2511ef35f339b
   "scripts": {
     "dev": "parcel src/index.html src/styles/main.scss src/scripts/main.js",
     "build": "parcel build src/index.html",
