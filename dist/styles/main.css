@@ -126,6 +126,7 @@
 
 .event {
   padding: 80px 0;
+  overflow: hidden;
 }
 
 .event--frontend {
